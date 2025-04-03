@@ -1,7 +1,7 @@
 # Applied Data Science Capstone Project
 
 ## Présentation  
-Ce projet est le **cours final** de la spécialisation [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).  
+Ce projet est le **projet final** de la spécialisation [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).  
 
 L'objectif est d'analyser les données des lancements de **fusées SpaceX Falcon 9** pour prédire si le premier étage d’un lancement pourra être **récupéré et réutilisé**, ce qui permettrait de réduire le coût des lancements spatiaux.
 
